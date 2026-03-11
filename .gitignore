@@ -3,6 +3,25 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Virtual environments
+venv/
+env/
+learn-env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac / Windows files
+.DS_Store
+Thumbs.db
+
+# Raw datasets
+data/raw/*
+
+# Output files
+outputs/figures/*
+outputs/tables/*
+
 # C extensions
 *.so
 
